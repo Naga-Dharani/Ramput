@@ -1,0 +1,197 @@
+
+*
+{
+	margin:0;
+	padding:0;
+}
+.top
+{
+	display:flex;
+	justify-content:space-between;
+	align-items:center;
+	background:black;
+}
+.envato>img
+{
+	width:200px;
+	height:75px;
+}
+.buybutton
+{
+	display:flex;
+}
+.button1
+{
+	border:none;
+
+	background:#95CB44;
+	width:75px;
+	padding:10px;
+	color:white;
+}
+.address
+{
+	display:flex;
+	background:#709f29;
+	justify-content:flex-start;
+}
+
+
+nav
+{
+	display:flex;
+	justify-content:space-around;
+	align-items:center;
+	background:white;
+}
+
+.logo>img
+{
+	width:250px;
+}
+.right_nav>ul
+{
+	display:flex;
+	list-style:none;
+}
+
+.right_nav>ul>li>a
+{
+	text-decoration:none;
+	color:black;
+	font-size:20px;
+}
+.right_nav>ul>li
+{
+	padding:20px;
+
+}
+.button2
+{
+    border:none;
+	background:#709f29;
+	width:250px;
+	padding:10px;
+	color:white;
+	font-size:15px;
+}
+.homeimg
+{
+	
+	position:relative;
+}
+
+.homeimg img
+{
+	width:100%;
+	height:700px;
+	position:relative;
+	
+}
+.homeimg .text-overlay
+{
+	position: absolute;
+    color:white;
+	left:30%;
+	top:40%;
+    font-size:30px;
+	transform: translate(-50%, -50%);
+}
+.button3
+{
+    border:none;
+	background:#709f29;
+	width:250px;
+	padding:20px;
+	color:white;
+	font-size:20px;
+}
+
+.table1
+{
+	background-color:#709f29;
+	padding:50px;
+	color:white;
+	width:80%;
+}
+
+.img1
+{
+	margin:100px auto;
+	width:80%;
+}
+
+.sideimg1
+{
+max-width:800px;
+float:left;
+border-radius:10px;
+margin-right:20px;
+}
+
+.num
+{
+	color:#709f29;
+	font-size:50px;
+	font-style:bold;
+}
+.img2
+{
+width:500px;	
+}
+.table2
+{
+	padding:50px;
+	width:80%;
+}
+
+.img5rightside
+{
+  display: flex;
+  
+  justify-content: space-between;
+}
+.img5
+{
+  width:300px; /* adjust the width of the image */
+  margin: 0 20px; /* add some margin around the image */
+  align-items: center;
+  flot:center;
+}
+.img5left-text, img5right-text
+{
+  width: 20%; /* adjust the width of the text containers */
+  
+}
+.img5left-text {
+  margin-left: 20px;
+  text-align: left;
+  flot:left;
+  
+}
+
+.img5right-text {
+  margin-right: 20px;
+  text-align: right;
+}
+
+.table3
+{
+	background-color:#709f29;
+	padding:20px;
+	color:white;
+	width:100%;
+}
+
+
+.img6-1
+{
+	color:#709f29;
+	font-size:20px;
+	
+}
+.img6-2
+{
+   font-size:45px;	
+	font-style:bold;
+}
